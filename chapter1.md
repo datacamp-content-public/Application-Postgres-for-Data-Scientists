@@ -19,7 +19,7 @@ Do some data science.
 
 ---
 
-## Insert exercise title here
+## The PSQL Command-line
 
 ```yaml
 type: VideoExercise 
