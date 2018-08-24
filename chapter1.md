@@ -1,6 +1,6 @@
 ---
-  title: "Template Chapter 1"
-  description: "This is a template chapter."
+title: 'Template Chapter 1'
+description: 'This is a template chapter.'
 ---
 
 ## Ex 1.1
